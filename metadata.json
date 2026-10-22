@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix العنكبوت للمعلومات | admin",
+  "description": "موقع العنكبوت للمعلومات information-net هو مدونة تعليمية شاملة تغطي الألعاب، البرامج، ببجي موبايل، الذكاء الاصطناعي، الشروحات والحلول التقنية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

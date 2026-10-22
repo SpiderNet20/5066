@@ -1,0 +1,58 @@
+[
+  {
+    "name": "الذكاء الاصطناعي",
+    "slug": "AI",
+    "colorClass": "cat-badge-2",
+    "description": "اكتشف أفضل أدوات الذكاء الاصطناعي وتطبيقات AI، مع شروحات بسيطة للمبتدئين، وروابط تحميل البرامج، ومقارنة أفضل الأدوات، وطرق الربح من الذكاء الاصطناعي، عشان تختار الأداة المناسبة ليك وتستفيد منها في شغلك ودراستك وصناعة المحتوى.",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800",
+    "count": 9
+  },
+  {
+    "name": "الألعاب",
+    "slug": "Games",
+    "colorClass": "cat-badge-1",
+    "description": "أحدث أخبار وشروحات الألعاب الإلكترونية، إعدادات ببجي موبايل، الحساسية، التحديثات، وحلول مشاكل الألعاب على الهواتف والكمبيوتر.",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=800",
+    "count": 15
+  },
+  {
+    "name": "البرامج",
+    "slug": "Software",
+    "colorClass": "cat-badge-5",
+    "description": "شروحات ومراجعات أهم برامج الكمبيوتر والهواتف الذكية، أدوات النظام، وتطبيقات الإنتاجية والحماية.",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80&w=800",
+    "count": 5
+  },
+  {
+    "name": "الربح من الإنترنت",
+    "slug": "Business",
+    "colorClass": "cat-badge-7",
+    "description": "محتوى يساعد الزائر على التعرّف على أفضل طرق كسب المال من الإنترنت، العمل الحر، قنوات تيليجرام للربح، والوظائف الرقمية الحديثة.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ8lEC62o2325188_wn1PQbdDnb02xy0sjyd8XoaMozU2O9FrKdVs_Pm-p0qJe9gGabHosZCsuZs0GTw2By_JkDOWgph0gAZxJYT8l-r4gW6QyHia54l3bnO-cfSIv2lgKOxGkGZ6S3Ri0RRZ5nx16IxB6RxOvagNB2mZJo5mWj6pb7-KgOvNnoUdVJQ4/s2149/%D9%86%D9%85%D9%88%20%D9%85%D8%A7%D9%84%D9%8A%20%D9%85%D8%B4%D8%B1%D9%82%20%D9%81%D9%88%D9%82%20%D9%83%D9%88%D9%85%D8%A9%20%D8%B9%D9%85%D9%84%D8%A7%D8%AA.jpg",
+    "count": 6
+  },
+  {
+    "name": "مقالات تعليمية",
+    "slug": "Education",
+    "colorClass": "cat-badge-3",
+    "description": "دروس وشروحات تقنية وتعليمية مبسطة خطوة بخطوة في مجالات البرمجة، الإنترنت، صيانة الأجهزة والبطاريات، الأنظمة، والمهارات الرقمية.",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&q=80&w=800",
+    "count": 5
+  },
+  {
+    "name": "التحميلات",
+    "slug": "Downloads",
+    "colorClass": "cat-badge-0",
+    "description": "الوصول بسهولة إلى ملفات وتطبيقات وألعاب التحميل المباشر مثل PUBG Mobile و Football League والموارد الرقمية الآمنة.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXj2duiHnbUtZq_6aMHbQUjQpwE3hsL6fZX9TU2dTX7cfrxQPhHD754pNFfYQH3MoCHzS2fCjMS_brxtgRy1aeHFFZPWcs-9OOuYhIFj6ugxdUJbq5WHcgU2SvhiJ4w87QGs4kKze0tVfplNwmgenjGfVsRsYbv7LpngB6JbGpAUtgMQQeI4twTesUsTw/s1672/56366b75-b97d-403d-b157-4d80b1eda396.png",
+    "count": 0
+  },
+  {
+    "name": "المدونة",
+    "slug": "Blog",
+    "colorClass": "cat-badge-4",
+    "description": "تصفّح أحدث المقالات والشروحات والتحليلات التقنية والأدلة المنشورة على موقع العنكبوت للمعلومات.",
+    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80&w=800",
+    "count": 2
+  }
+]
